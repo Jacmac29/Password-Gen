@@ -26,3 +26,6 @@ THEN the password is either displayed in an alert or written to the page
 
 Screenshot
 ![Alt text](image-1.png)
+
+Site link:
+https://jacmac29.github.io/Password-Gen/
