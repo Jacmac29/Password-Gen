@@ -1,1 +1,2 @@
 # Password Generator Starter Code
+A Simple password generator to reliably make secure passwords that fit a specific criteria. Click the "Generate Password" button and the window will promt you with a series of questions then generate you a random password.
